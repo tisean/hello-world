@@ -6,6 +6,7 @@ public class HelloWorld {
         int c = a*b;
         int d = a+b*c;
         System.out.println("Hello, WORLD!!! :D "+d);
-
+        string r = "Hello";
+        System.out.println(r);
     }
 }
